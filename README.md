@@ -1,4 +1,9 @@
-# FAP_Project_StudentWebsite_C-WebForm
+# FAP-Project _ StudentManagementWebsite _ C#-WebForm
+
+StudentManagementWebsite
+
+Project_PRN292_FAP_Main - C#-WebForm
+
 This is the website built-up for student with following function: login, logout, update profile, homepage, view news of school, timetable, courses in a week, courses in all semester, course details ,exam schedules, ... 
 
 ![scrnli_11_25_2019_4-43-28 PM](https://user-images.githubusercontent.com/39472745/69529606-3286c380-0fa3-11ea-80bf-dbe8f81b4bce.png)
